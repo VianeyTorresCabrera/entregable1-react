@@ -4,9 +4,9 @@ Esta primera practica es realizada con el proposito de reforzar mis conocimiento
 
 
 
-[![Galleta de la Fortuna Desk](assets/fortuna-1/app_desk.png)]
+[![Galleta de la Fortuna Desk](public/fortuna-1/app_desk.png)]
 
-[![Galleta de la Fortuna Movile](assets/fortuna-1/app_movile.png)]
+[![Galleta de la Fortuna Movile](public/fortuna-1/app_movile.png)]
 
 
 ## Características de la practica
